@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhraneel77" alt="subhraneel77" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Architecting with Google Compute Engine.**
+- 🌱 I’m currently learning **NodalJS, Architecting with Google Compute Engine.**
 
-- 💬 Ask me about **GoogleCloud Programs, Qwiklabs etc**
+- 💬 Ask me about **GoogleCloud Programs, Qwiklabs, Python, C , C++ etc**
 
 - 📫 How to reach me **subhraneel777@gmail.com**
 
