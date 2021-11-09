@@ -8,7 +8,7 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhraneel77" alt="subhraneel77" /></a> </p>
   
-  ![tenor (1)](https://giphy.com/gifs/lildicky-earth-lil-dicky-1yjqcGKmx63uoRLqlo)
+   ![tenor (1)](https://media.giphy.com/media/bXhiABcqQGT3W/giphy-downsized-large.gif)
   
 - 🌱 I’m currently learning **NodalJS, Architecting with Google Compute Engine.**
 
