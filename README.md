@@ -7,7 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=subhraneel77&label=Profile%20views&color=0e75b6&style=flat" alt="subhraneel77" /> </p>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhraneel77" alt="subhraneel77" /></a> </p>
-
+  
+  ![tenor (1)] (https://www.videvo.net/video/earth-zoom-in/2747/)
+  
 - 🌱 I’m currently learning **NodalJS, Architecting with Google Compute Engine.**
 
 - 💬 Ask me about **GoogleCloud Programs, Qwiklabs, Python, C , C++ etc**
