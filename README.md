@@ -1,4 +1,4 @@
-<h1 align="center">Hello People 😊, I'm Subhraneel Haldar</h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
+<h1 align="center">Hello People 😊, I'm Subhraneel Haldar<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"></h1>
 <h3 align="center">An Enthusiastic boy with lots of Big targets to accomplish.</h3>
 
 ## Its just a Mere Beginning🔥
@@ -37,25 +37,10 @@
   <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
-[77.1]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white
-[8.1]:  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[9.1]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[10.1]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[11.1]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-[12.1]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-[14.1]: https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
-[16.1]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-[18.1]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[22.1]: https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
-[39.1]: https://img.shields.io/badge/Sass-FF69B4?style=for-the-badge&logo=sass&logoColor=white
-[66.1]: https://img.shields.io/badge/Atom-3CB371?style=for-the-badge&logo=atom&logoColor=white
-[33.1]: https://img.shields.io/badge/Bootstrap-0095D5?style=for-the-badge&logo=bootstrap&logoColor=white
-
-
 <h3 align="left">Support ::</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/subhro7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/subhro7" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhraneel77&show_icons=true&locale=en&layout=compact" alt="subhraneel77" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhraneel77&show_icons=true&locale=en&layout=compact" alt="subhraneel77" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhraneel77&show_icons=true&locale=en" alt="subhraneel77" /></p>
 
