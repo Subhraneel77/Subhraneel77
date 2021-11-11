@@ -3,9 +3,9 @@
 
 ## Its just a Mere Beginning🔥
 
-<p align="left"> 
+<p align="centre"> 
   <img src="https://komarev.com/ghpvc/?username=subhraneel77&label=Profile%20views&color=0e75b6&style=flat" alt="subhraneel77" /> </p>
-<p align="left">
+<p align="centre">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhraneel77" alt="subhraneel77" /></a> </p>
   
    ![tenor (1)](https://media.giphy.com/media/bXhiABcqQGT3W/giphy-downsized-large.gif)
@@ -47,4 +47,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhraneel77&show_icons=true&locale=en" alt="subhraneel77" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhraneel77&" alt="subhraneel77" /></p>
+
+
+<p align="center">
+ <img   src="https://github.com/Subhraneel77/Subhraneel77/blob/2c02c05bde90206184e4f588fc8de259eb9762ee/Cool.gif">
+</p>
 
