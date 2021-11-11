@@ -8,9 +8,15 @@
 <p align="centre">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhraneel77" alt="subhraneel77" /></a> </p>
   
-   ![tenor (1)](https://media.giphy.com/media/bXhiABcqQGT3W/giphy-downsized-large.gif)
+   <p align="center">
+ <img   src="https://media.giphy.com/media/bXhiABcqQGT3W/giphy-downsized-large.gif">
+</p>
   
 - 🌱 I’m currently learning **NodalJS, Architecting with Google Compute Engine.**
+
+- ❤️ I'm Currently Persuing My Btech In Computer Science and Engineering(CSE).
+
+- 🔥 I've started Exploring the Field of GoogleCloud as well ✨ and Hope to Contribute to that Field as well.
 
 - 💬 Ask me about **GoogleCloud Programs, Qwiklabs, Python, C , C++ etc**
 
