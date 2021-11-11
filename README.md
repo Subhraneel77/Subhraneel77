@@ -1,5 +1,5 @@
 <h1 align="center">Hello People 😊, I'm Subhraneel Haldar<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"></h1>
-<h3 align="center">An Enthusiastic boy with lots of Big targets to accomplish.</h3>
+<h3 align="center">An Enthusiastic Boy 💥 with lots of Big Targets to Accomplish 💥.</h3>
 
 ## Its just a Mere Beginning🔥
 
@@ -14,7 +14,7 @@
   
 - 🌱 I’m currently learning **NodalJS, Architecting with Google Compute Engine.**
 
-- ❤️ I'm Currently Persuing My Btech In Computer Science and Engineering(CSE).
+- ❤️ I'm Currently Persuing my Btech In Computer Science and Engineering(CSE).
 
 - 🔥 I've started Exploring the Field of GoogleCloud as well ✨ and Hope to Contribute to that Field as well.
 
@@ -56,6 +56,6 @@
 
 
 <p align="center">
- <img   src="https://github.com/Subhraneel77/Subhraneel77/blob/2c02c05bde90206184e4f588fc8de259eb9762ee/Cool.gif">
+ <img   src="https://github.com/Subhraneel77/Subhraneel77/blob/e3d0f7ebfce2d6cd7a139cd4eef6fd5ba5f754f5/Cool.gif">
 </p>
 
