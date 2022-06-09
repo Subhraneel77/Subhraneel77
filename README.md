@@ -24,6 +24,8 @@
 
 - ⚡ Fun fact **I believe Coffee is more adhesive than Caffein**
 
+- 🔥🔥 Have a look at [My Portfolio]( https://subhraneel77.github.io/Subhro7/) and contact me from there! 🔥🔥
+
 <h3 align="left">Connect with Me ::</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/subhraneel-778/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhraneel-778/" height="30" width="40" /></a>
@@ -43,7 +45,7 @@
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-🔥🔥 Have a look at My Portfolio and contact me from there! 🔥🔥
+
 
 <h3 align="left">Support ::</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/subhro7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/subhro7" /></a></p><br><br>
