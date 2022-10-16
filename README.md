@@ -4,7 +4,7 @@
 ## Its just a Mere Beginning🔥
 
 
-![Uploading Linkedln Thumbnail.png…]()
+
 
 
 
