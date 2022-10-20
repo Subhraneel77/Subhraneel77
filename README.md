@@ -3,7 +3,7 @@
 
 ## Its just a Mere Beginning🔥
 
-
+---
 
 <p align="centre"> 
   <img src="https://komarev.com/ghpvc/?username=subhraneel77&label=Profile%20views&color=0e75b6&style=flat" alt="subhraneel77" /> </p>
@@ -14,9 +14,12 @@
  <img   src="https://media.giphy.com/media/bXhiABcqQGT3W/giphy-downsized-large.gif">
 </p>
 
+----
+
   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=[https://www.froala.com/design-blocks&via](https://twitter.com/subhraneel71)=froala&hashtags=bootstrap,design,templates,blocks,developers)
   
-  
+---
+
 - 🌱 I’m currently learning **NodalJS, Architecting with Google Compute Engine.**
 
 - ❤️ I'm Currently Persuing my Btech In Computer Science and Engineering(CSE).
@@ -31,12 +34,16 @@
 
 - 🔥🔥 Have a look at [My Portfolio]( https://subhraneel77.github.io/Subhro7/) and contact me from there! 🔥🔥
 
+---
+
 <h3 align="left">Connect with Me ::</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/subhraneel-778/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhraneel-778/" height="30" width="40" /></a>
 
   <a href="https://www.hackerrank.com/subhraneel777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/subhraneel777" height="30" width="40" /></a>
 </p>
+
+----
 
 <h3 align="left">Languages and Tools ::</h3>
 <p align="left">
@@ -51,6 +58,7 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
+----
 
 <h3 align="left">Support ::</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/subhro7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/subhro7" /></a></p><br><br>
@@ -61,8 +69,18 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhraneel77&" alt="subhraneel77" /></p>
 
+---
+
+<p align="center">
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+----
 
 <p align="center">
  <img   src="https://github.com/Subhraneel77/Subhraneel77/blob/e3d0f7ebfce2d6cd7a139cd4eef6fd5ba5f754f5/Cool.gif">
 </p>
+
+----
+
 
