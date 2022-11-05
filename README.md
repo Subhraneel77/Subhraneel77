@@ -20,7 +20,7 @@
   
 ---
 
-- 🌱 I’m currently learning **NodalJS, Architecting with Google Compute Engine.**
+- 🌱 I’m currently learning ** NodalJS, Architecting with Google Compute Engine.**
 
 - ❤️ I'm Currently Persuing my Btech In Computer Science and Engineering(CSE).
 
