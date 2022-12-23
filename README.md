@@ -107,11 +107,10 @@
 
 ---
 
-<!-- <p align="center">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p> -->
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+ <p align="center">
+  <img src="https://github.com/Subhraneel77/Subhraneel77/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>  
+
 ----
 
 <p align="center">
