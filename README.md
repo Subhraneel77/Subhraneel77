@@ -24,7 +24,7 @@
   
 ---
 
-- 🌱 I’m currently learning ** DevOps: Jenkins Integrator, Architecting with Google Compute Engine, Blockchain.**
+- 🌱 I’m currently learning **DevOps: Jenkins Integrator, Architecting with Google Compute Engine, Blockchain.**
 
 - ❤️ I'm Currently Persuing my Btech In Computer Science and Engineering(CSE).
 
