@@ -24,13 +24,13 @@
   
 ---
 
-- 🌱 I’m currently learning ** NodalJS, Architecting with Google Compute Engine.**
+- 🌱 I’m currently learning ** DevOps: Jenkins Integrator, Architecting with Google Compute Engine, Blockchain.**
 
 - ❤️ I'm Currently Persuing my Btech In Computer Science and Engineering(CSE).
 
 - 🔥 I've started Exploring the Field of GoogleCloud as well ✨ and Hope to Contribute to that Field as well.
 
-- 💬 Ask me about **GoogleCloud Programs, Qwiklabs, Python, C , C++ etc**
+- 💬 Ask me about **GoogleCloud Programs, Qwiklabs, Python, C , C++, Machine Learning etc**
 
 - 📫 How to reach me **subhraneel777@gmail.com**
 
